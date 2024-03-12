@@ -1,0 +1,60 @@
+.edit_container{
+    position:absolute;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:rgba(0,0,0,0.1);
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    z-index:1;
+}
+
+.edit_block{
+    position:relative;
+    display:flex;
+    flex-direction:column;
+    background:white;
+    padding:20px 100px;
+}
+
+.inp{
+    margin:10px 0;
+    padding:7px;
+}
+
+.edit_button{
+    background:rgb(10, 137, 247);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:10px;
+    width:fit-content;
+    margin-top:20px;
+    border:none;
+    border-radius:3px;
+    color:white;
+}
+
+.edit_button:hover{
+    cursor:pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.close{
+    position:absolute;
+    top: 10px;
+    right : 10px;
+    z-index:2;
+}
+
+.close:hover{
+    cursor:pointer;
+}
+
+@media screen and (max-width: 400px) {
+    .edit_block{
+        padding:20px 50px;
+    }
+}
