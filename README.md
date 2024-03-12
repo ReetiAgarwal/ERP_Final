@@ -43,8 +43,7 @@ Can only edit the status of an orders and remove a order.
 
 ![Screenshot (1392)](https://github.com/ReetiAgarwal/ERP/assets/87187281/6b412fff-710f-4411-8894-4333e4d9f300)
 
-![Screenshot (1397)](https://github.com/ReetiAgarwal/ERP_Final/assets/87187281/38309f16-8376-4e4b-81e6-f7ea55a2d313)
-
+![Screenshot (1395)](https://github.com/ReetiAgarwal/ERP/assets/87187281/baeda25b-d3bd-4172-b853-62a669141153)
 
 
 
@@ -52,6 +51,7 @@ Can also view the orders of a particular date in a calendar with details on clic
 
 ![Screenshot (1396)](https://github.com/ReetiAgarwal/ERP_Final/assets/87187281/d3048241-2d31-4df9-a5fc-6d368bd16b8c)
 
-![Screenshot (1395)](https://github.com/ReetiAgarwal/ERP/assets/87187281/baeda25b-d3bd-4172-b853-62a669141153)
+![Screenshot (1397)](https://github.com/ReetiAgarwal/ERP_Final/assets/87187281/38309f16-8376-4e4b-81e6-f7ea55a2d313)
+
 
 All the changes made in product and order section, will also be displayed in a dashboard.
