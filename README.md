@@ -51,6 +51,8 @@ Can also view the orders of a particular date in a calendar with details on clic
 
 ![Screenshot (1397)](https://github.com/ReetiAgarwal/ERP_Final/assets/87187281/38309f16-8376-4e4b-81e6-f7ea55a2d313)
 
+Changes made in order section will also be reflected in calendar section.
+
 
 All the changes made in product and order section, will also be displayed in a dashboard.
 
